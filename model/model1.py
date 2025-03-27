@@ -41,5 +41,12 @@ data_columns =['Patient_ID', 'Age', 'Gender', 'Tumor_Type', 'Tumor_Size', 'Locat
        ]
 
 #NOTES
+    # REsponse: The type and severity
+    #Predictors: All else
+
+"""
+1.) Expand the dataset and perform dummy encoding
+2.) Perform EDA
+"""
 
 
