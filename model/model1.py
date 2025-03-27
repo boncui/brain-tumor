@@ -41,8 +41,11 @@ data_columns =['Patient_ID', 'Age', 'Gender', 'Tumor_Type', 'Tumor_Size', 'Locat
        ]
 
 #NOTES
-    # REsponse: The type and severity
+    # REsponse: The type and severity: "Tumor_Type" "Survival_Rate"
     #Predictors: All else
+    #does location have an imapct on survival rate
+    #how much imapct does chemo have on survival rate
+    #the stage of cancer definitely has a impact on both survival rate and type I think
 
 """
 1.) Expand the dataset and perform dummy encoding
