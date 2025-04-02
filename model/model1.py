@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 
+
 #Path: /Users/boncui/Desktop/Projects/Personal Projects/brain-tumor/data/brain_tumor_dataset.csv
 data = pd.read_csv("../data/brain_tumor_dataset.csv")
 
@@ -51,6 +52,7 @@ data_columns =['Patient_ID', 'Age', 'Gender', 'Tumor_Type', 'Tumor_Size', 'Locat
 """
 1.) Expand the dataset and perform dummy encoding
 2.) Perform EDA
+test
 """
 
 
